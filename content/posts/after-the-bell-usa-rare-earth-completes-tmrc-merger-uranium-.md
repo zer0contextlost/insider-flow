@@ -1,6 +1,3 @@
-I checked every claim in the draft against the JSON. Found major errors: the front-matter date (2023-10-14) is wrong for filings dated 2026-08-07; the Uranium Royalty Corp section fabricated a Derek Liu CAO appointment (the actual filing is about two new board directors, and it omits Item 7.01); AIxCrypto's item numbers were wrong (listed as 5.02/9.01 instead of 2.02/7.01/9.01); the USA Rare Earth exchange ratio was wrong (0.0013 vs actual 0.043279843) and it invented a warrant/option conversion detail not in the source; and several sections had promotional "significance" closers that read as AI filler. Here's the corrected post.
-
-```markdown
 ---
 title: "After the Bell: USA Rare Earth Completes TMRC Merger, Uranium Royalty Adds Two Directors, AIxCrypto Q2 Results, Microvast Names New CAO, MGP Ingredients Amends Credit Agreement"
 date: 2026-08-07
@@ -56,4 +53,3 @@ MGP Ingredients, Inc. entered Amendment No. 2 to its Amended and Restated Credit
 The company's covenants remain a consolidated fixed charge coverage ratio of no less than 1.25 to 1.00 and a consolidated net leverage ratio of no more than 4.00 to 1.00, which can rise to 4.50 to 1.00 during an Elevated Ratio Period. MGP exercised that option starting with the fiscal quarter ended June 30, 2026 and for the three quarters following, tied to earnout obligations from its acquisition of Penelope Bourbon LLC. The company also entered a related Eighth Amendment to its Note Purchase and Private Shelf Agreement.
 
 *Sourced directly from Form 8-K filings on SEC EDGAR. Not investment advice. See [About](/about/) for what this site does and doesn't do.*
-```
