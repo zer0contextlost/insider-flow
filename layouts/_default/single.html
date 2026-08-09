@@ -1,0 +1,20 @@
+{{ define "title" }}{{ .Title }} · {{ .Site.Title }}{{ end }}
+{{ define "main" }}
+<article class="post">
+  <h1>{{ .Title }}</h1>
+  <div class="meta">
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+    {{ if .Params.tags }}
+    <ul class="tags">
+      {{ range .Params.tags }}<li><a class="tag" href="{{ (printf "/tags/%s/" (. | urlize)) | relURL }}">{{ . }}</a></li>{{ end }}
+    </ul>
+    {{ end }}
+  </div>
+  {{ if in .File.Path "posts/" }}
+  <p class="disclaimer">Sourced from public SEC EDGAR filings. Informational only — not investment advice, and not a recommendation to buy, sell, or hold any security.</p>
+  {{ end }}
+  <div class="content">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

@@ -1,0 +1,13 @@
+baseURL = "https://insiderflow.zer0contextlost.net/"
+languageCode = "en-us"
+title = "Insider Flow"
+
+[params]
+  description = "SEC Form 4 insider-buying trackers and after-hours 8-K filing recaps — grounded in what companies actually filed, not predictions."
+  tagline = "Real filings. No hype. No advice."
+
+[taxonomies]
+  tag = "tags"
+
+[markup.goldmark.renderer]
+  unsafe = true
