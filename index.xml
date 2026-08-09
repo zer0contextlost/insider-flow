@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Insider Flow</title><link>https://insiderflow.zer0contextlost.net/</link><description>Recent content on Insider Flow</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 09 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://insiderflow.zer0contextlost.net/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://insiderflow.zer0contextlost.net/about/</link><pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate><guid>https://insiderflow.zer0contextlost.net/about/</guid><description>&lt;p&gt;Insider Flow tracks two things, both sourced directly from the SEC&amp;rsquo;s public
+EDGAR filing system:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Insider buying&lt;/strong&gt; — open-market purchases of company stock by officers,
+directors, and large beneficial owners, disclosed on Form 4.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;After-hours filings&lt;/strong&gt; — Form 8-K material-event disclosures, which
+companies frequently file right after the market closes: earnings,
+executive changes, financing, M&amp;amp;A, and other events they&amp;rsquo;re required to
+report.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Every figure on this site — shares, prices, dates, filer names, item
+numbers — comes from the filing itself, not a summary or a data vendor.
+Where a filing is ambiguous or thin on detail, that&amp;rsquo;s stated plainly rather
+than filled in with a guess.&lt;/p&gt;</description></item><item><title>After the Bell: General Dynamics Adds a Board Member, OneMain Prices $600M in Notes</title><link>https://insiderflow.zer0contextlost.net/posts/after-hours-8k-general-dynamics-onemain/</link><pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate><guid>https://insiderflow.zer0contextlost.net/posts/after-hours-8k-general-dynamics-onemain/</guid><description>&lt;p&gt;Companies frequently file Form 8-K material-event disclosures right after
+the market closes, once the day&amp;rsquo;s trading is done. Two from Friday afternoon
+worth a plain-language read.&lt;/p&gt;
+&lt;h2 id="general-dynamics-a-new-board-member-filed-under-item-502"&gt;General Dynamics: a new board member, filed under Item 5.02&lt;/h2&gt;
+&lt;p&gt;General Dynamics Corporation filed an 8-K disclosing that its board elected
+Danny Deep as a new director, effective August 5, 2026. Per the filing,
+Deep currently serves as the company&amp;rsquo;s president and won&amp;rsquo;t receive
+additional compensation for the board seat. The filing states there&amp;rsquo;s no
+arrangement or understanding tied to the appointment, and that Deep hasn&amp;rsquo;t
+yet been assigned to a board committee. A press release announcing the
+appointment is attached as an exhibit.&lt;/p&gt;</description></item><item><title>After the Bell: Kensington's SPAC Merger Update, a Board Departure at SideChannel, and Severance Changes at Covenant Logistics</title><link>https://insiderflow.zer0contextlost.net/posts/after-the-bell-kensington-s-spac-merger-update-a-board-depar/</link><pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate><guid>https://insiderflow.zer0contextlost.net/posts/after-the-bell-kensington-s-spac-merger-update-a-board-depar/</guid><description>&lt;p&gt;Five companies filed Form 8-Ks within a six-minute window after the close on August 7, 2026, all between 5:25 PM and 5:31 PM Eastern.&lt;/p&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Company&lt;/th&gt;
+ &lt;th&gt;Item(s)&lt;/th&gt;
+ &lt;th&gt;Filed (ET)&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;NexMetals Mining Corp.&lt;/td&gt;
+ &lt;td&gt;7.01, 9.01&lt;/td&gt;
+ &lt;td&gt;5:30:48 PM&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Covenant Logistics Group, Inc.&lt;/td&gt;
+ &lt;td&gt;5.02&lt;/td&gt;
+ &lt;td&gt;5:27:41 PM&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;ServisFirst Bancshares, Inc.&lt;/td&gt;
+ &lt;td&gt;7.01, 9.01&lt;/td&gt;
+ &lt;td&gt;5:26:39 PM&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Kensington Capital Acquisition Corp. VI&lt;/td&gt;
+ &lt;td&gt;8.01, 9.01&lt;/td&gt;
+ &lt;td&gt;5:25:50 PM&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;SideChannel, Inc.&lt;/td&gt;
+ &lt;td&gt;5.02&lt;/td&gt;
+ &lt;td&gt;5:25:20 PM&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="kensington-capital-acquisition-corp-vi-spac-deal-update-item-801"&gt;Kensington Capital Acquisition Corp. VI: SPAC deal update (Item 8.01)&lt;/h2&gt;
+&lt;p&gt;Item 8.01 is the catch-all &amp;ldquo;other events&amp;rdquo; category, used when a company wants to disclose something material that doesn&amp;rsquo;t fit neatly into the SEC&amp;rsquo;s other checkboxes. Kensington, a Cayman Islands SPAC, used it to update investors on its pending business combination with Nth Cycle, Inc., a Delaware corporation. The underlying Business Combination Agreement was signed July 21, 2026, involving Kensington, Nth Cycle, two merger subsidiaries (Homeland Merger Sub, Inc. and Homeland Merger Sub II, LLC), and Kensington Capital Sponsor VI LLC.&lt;/p&gt;</description></item><item><title>Insider Buying This Week: A Three-Day Streak, a Director's Small Add, and a Fund Building a Stake</title><link>https://insiderflow.zer0contextlost.net/posts/insider-buying-navios-landmark-bancorp-attovia/</link><pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate><guid>https://insiderflow.zer0contextlost.net/posts/insider-buying-navios-landmark-bancorp-attovia/</guid><description>&lt;p&gt;Three Form 4 filings from this week illustrate three different shapes
+open-market insider buying can take — a multi-day executive buying streak,
+a small routine director purchase, and a large institutional stake build.
+All figures below are taken directly from the filings.&lt;/p&gt;
+&lt;h2 id="navios-maritime-partners-nmm-three-consecutive-buying-days"&gt;Navios Maritime Partners (NMM): three consecutive buying days&lt;/h2&gt;
+&lt;p&gt;Angeliki Frangou, listed on the filing as both a director and officer of
+Navios Maritime Partners L.P. (ticker NMM), reported open-market purchases
+on three consecutive trading days:&lt;/p&gt;</description></item><item><title>After the Bell: USA Rare Earth Completes TMRC Merger, Uranium Royalty Adds Two Directors, AIxCrypto Q2 Results, Microvast Names New CAO, MGP Ingredients Amends Credit Agreement</title><link>https://insiderflow.zer0contextlost.net/posts/after-the-bell-usa-rare-earth-completes-tmrc-merger-uranium-/</link><pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate><guid>https://insiderflow.zer0contextlost.net/posts/after-the-bell-usa-rare-earth-completes-tmrc-merger-uranium-/</guid><description>&lt;h2 id="overview-of-recent-sec-form-8-k-filings"&gt;Overview of Recent SEC Form 8-K Filings&lt;/h2&gt;
+&lt;p&gt;This recap covers Form 8-K filings made with the U.S. Securities and Exchange Commission on August 7, 2026, covering a completed merger, board appointments, quarterly results, an executive hire, and a credit agreement amendment.&lt;/p&gt;
+&lt;h3 id="usa-rare-earth-inc-completion-of-tmrc-merger"&gt;USA Rare Earth, Inc.: Completion of TMRC Merger&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Items Disclosed:&lt;/strong&gt; Item 2.01, Item 9.01
+&lt;strong&gt;Filed:&lt;/strong&gt; August 7, 2026&lt;/p&gt;
+&lt;p&gt;USA Rare Earth, Inc. (USAR) completed its previously disclosed merger with Texas Mineral Resources Corp. (TMRC) on August 7, 2026, under the Agreement and Plan of Merger originally entered March 4, 2026. The transaction was structured as two mergers: Hamer Merger Sub, Inc. merged into TMRC, with TMRC surviving as a wholly owned subsidiary of USAR, followed by a merger of Hamer Merger Sub, LLC into that surviving corporation.&lt;/p&gt;</description></item></channel></rss>
